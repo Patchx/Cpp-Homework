@@ -1,0 +1,26 @@
+========================================================================
+    How to Compile and Execute C / C++ code in Linux
+========================================================================
+
+note: If on Linux, comment out #include "stdafx.h"
+
+
+Compile C code to file 'a.out'  [rename file after]
+
+  gcc filename.c
+
+
+Compile C++ code to file 'a.out'  [rename file after]
+
+  g++ filename.cpp
+
+
+Run executable from the command line
+
+  ./filename.out
+
+
+/////////////////////////////////////////////////////////////////////////////
+
+
+

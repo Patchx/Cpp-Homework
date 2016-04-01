@@ -3,7 +3,7 @@
 //Created On: 08/02/2015
 //Program Purpose: To demonstrate inheritance and polymorphism by utilizing a class hierarchy of shapes
 
-#include "stdafx.h" // Standard include for Visual Studio
+// #include "stdafx.h" // Standard include for Visual Studio
 #include <iostream> // included for cin and cout
 #include <iomanip> // included for formatted outputs
 using namespace std;

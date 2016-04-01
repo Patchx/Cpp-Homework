@@ -6,7 +6,7 @@
 	RETURNED VALUES: 0 if successful
 */
 
-#include "stdafx.h"  // standard include for Visual Studio
+// #include "stdafx.h"  // standard include for Visual Studio
 #include <iostream>  // included for cout
 #include <cstring>  // included for strlen(), allowed in assignment details
 
